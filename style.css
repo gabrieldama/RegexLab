@@ -65,3 +65,8 @@ label {
     display: flex;
     gap: 16px;
 }
+
+.entrada.invalido { border-color: #ef4444; background: #fef2f2; }
+.entrada.valido { border-color: #22c55e; background: #f0fdf4; }
+.mensagem.erro { color: #dc2626; font-weight: 600; }
+.mensagem.sucesso { color: #16a34a; font-weight: 600; }
