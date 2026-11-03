@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratório de Regex</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="caixa">
+        <form novalidate>
+            <header class="cabecalho">
+                <h1 style="color: #c02e2e; font-size: 2em; display: block; text-align: center;">Laboratório de Regex</h1>
+                <p style="color: #4b4242; display: block; text-align: center;">Digite nos campos abaixo para testar 5 validações diferentes em tempo real</p>
+            </header>
+
+            <div class="campo">
+                <label for="cep">1. Email (Ex: exemplo@dominio.com)</label>
+                <input class="entrada" type="email" id="cep">
+            </div>
+
+            <div class="campo">
+                <label for="rua">2. CEP (Ex: 12345-678)</label>
+                <input class="entrada" type="text" id="rua" inputmode="numeric" maxlength="8">
+            </div>
+
+            <div class="campo">
+                <label for="bairro">3. Celular (Ex: (11) 91234-5678)</label>
+                <input class="entrada" type="tel" id="bairro" inputmode="numeric" maxlength="11">
+            </div>
+
+                <div class="campo">
+                    <label for="cidade">4. Apenas Números (Ex: 123456789)</label>
+                    <input class="entrada" type="text" id="cidade" inputmode="numeric">
+                </div>
+
+                <div class="campo">
+                    <label for="uf">5. Nome (Apenas letras e espaços)</label>
+                    <input class="entrada" type="text" id="uf">
+                </div>
+        </form>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

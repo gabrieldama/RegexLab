@@ -1,0 +1,97 @@
+===================================================
+DADOS DE CONTATO E USUÁRIOS
+===================================================
+Nomes:
+João da Silva
+Maria-Clara Oliveira
+Luís F. A. de Souza
+Ana_Carolina1990
+
+E-mails:
+joao.silva@email.com
+maria_clara123@empresa.com.br
+contato@site-teste.net
+suporte@subdominio.meusite.org
+email.invalido@.com.br
+admin@localhost
+falta.arroba.com
+
+Telefones:
+(11) 98765-4321
+(21) 9999-8888
++55 31 3333-2222
+0800 123 4567
++1 (555) 123-4567
+
+===================================================
+DOCUMENTOS E IDENTIFICADORES (BRASIL)
+===================================================
+CPFs:
+123.456.789-00
+98765432199
+000.111.222-33
+
+CNPJs:
+12.345.678/0001-99
+98765432000188
+
+CEPs:
+01310-200
+13015100
+22040-010
+
+===================================================
+DATAS E HORÁRIOS
+===================================================
+Datas Variadas:
+27/10/2026
+2026-10-27
+05.09.1999
+31/02/2024 (Data inválida no calendário, mas padrão válido)
+12/25/23
+
+Horários:
+14:13:00
+09:05 AM
+23:59
+25:99:99 (Horário inválido)
+
+===================================================
+WEB, REDES E TECNOLOGIA
+===================================================
+URLs:
+https://www.google.com
+http://site.com.br/caminho?id=123&sort=asc
+ftp://arquivos.servidor.net/pub/file.zip
+www.exemplo.com
+
+Endereços IP (IPv4):
+192.168.0.1
+10.0.0.255
+172.16.254.1
+256.300.1.1 (IP logicamente inválido)
+
+Endereços MAC:
+00:1B:44:11:3A:B7
+00-1B-44-11-3A-B7
+
+===================================================
+FINANÇAS E CÓDIGOS
+===================================================
+Preços:
+R$ 1.500,00
+R$25,90
+U$ 45.50
+USD 1,234.56
+€ 100,00
+
+Logs de Sistema:
+[2026-10-27 14:13:00] [INFO] Sistema iniciado com sucesso.
+[2026-10-27 14:15:22] [WARNING] Uso de memória alto: 85%
+[2026-10-27 14:20:01] [ERROR] Falha de conexão com o banco de dados. (Code: 503)
+
+Tags e Códigos:
+<title>Página de Teste</title>
+<div class="container" id="main">
+#hashtag1 #regex_teste #Programacao2026
+SKU: ABC-1234-XYZ
